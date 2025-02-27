@@ -1,6 +1,10 @@
 # UAM-CSI @ MultiGEC-2025 
 Repository containing script to reproduce MultiGEC-2025 UAM-CSI Team solution.
 
+The solution is the fine-tuned Gemma 2 9b model using the Unsloth framework.
+
+The model achieved the best performance for all languages for the F0.5/GLEU metrics and the best performance for the Scribendi score metric Scribendi, except for the Greek language in the minimal-edit track.
+
 
 # MultiGEC-2025 Shared Task
 
